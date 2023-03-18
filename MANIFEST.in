@@ -1,0 +1,6 @@
+recursive-include alice/client/speech/recognizer/model *
+include requirements/requirements.txt
+include alice/configuration/*.conf
+recursive-include alice/res *
+recursive-include alice/res/snd *
+recursive-include alice/res/text/* *
